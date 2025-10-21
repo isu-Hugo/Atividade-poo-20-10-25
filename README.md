@@ -1,6 +1,6 @@
 ### Atividade avaliativa
-Aluno:
-> Hugo E. C.
+
+> Aluno: Hugo E. C.
 RA:
 > 24183115-2
 
